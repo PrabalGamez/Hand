@@ -1,0 +1,31 @@
+body{
+    background-color:#DEB58A;
+}
+#head1{
+    background-color: #F5E0A7;
+}
+#camera_div{
+    background-color: #F5E0A7;
+}
+div{
+    border: #DEB58A 10px solid;
+    border-radius: 20px;
+}
+#result_div{
+    background-color: #F5E0A7;
+}
+#result_give{
+    background-color: #F5E0A7;
+}
+.bulb{
+    width: 100px;
+}
+button{
+    background-color: #D9B393;
+    border: solid 10px #F5E0A7;
+    border-radius: 20px;
+    width: 45%;
+}
+.result_camera{
+    height: 49%;
+}
